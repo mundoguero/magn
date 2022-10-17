@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-print("😀😍 cucciola")
+print("😀😍 cucciolacucciola")
 
 @main
 struct magnApp: App {
