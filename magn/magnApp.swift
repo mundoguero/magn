@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+print("😀")
+
 @main
 struct magnApp: App {
     var body: some Scene {
